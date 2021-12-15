@@ -6,7 +6,7 @@ import pic5 from '../src/components/images/diary.PNG'
 import pic6 from '../src/components/images/advise.webp'
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'https://ezhilarasijes.netlify.app/',
+  homepage: 'https://ezhilarasi.netlify.app',
   title: 'Ezhil :)',
 }
 const exp=[{
