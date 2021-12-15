@@ -33,7 +33,7 @@ const about = {
 
   description:
     'As a person of IT interset, I have learnt various technologies like ReactJS, NodeJS, Express, MongoDB and tools like Qlikview, RPA - BLueprism and Automation Anywhere.',
-  resume: 'https://drive.google.com/file/d/1NdWMT_46eoCzOy9gYxJc70ipLmcSSIRE/view?usp=sharing',
+  resume: 'https://drive.google.com/file/d/10uLdGaKhqMdZdynqJFdJ0Ru71dHN4-tY/view?usp=sharing',
   social: {
     linkedin: 'https://linkedin.com',
     github: 'https://github.com',
