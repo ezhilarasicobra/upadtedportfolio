@@ -20,12 +20,16 @@ const Contact = () => {
         </span>
         
       </a>
-      <button style={{marginRight:"9px",border:"3px solid #45A29E",color:"#45A29E",paddingLeft:"3px",paddingRight:"3px"}} >
+      <a href="">
+        <span type='button' className='btn btn--outline' style={{marginRight:"9px"}}>
+        <span style={{textTransform: "uppercase",color:"#45A29E"}}>C</span>hennai, <span style={{textTransform: "uppercase",color:"#45A29E"}}>T</span>amilnadu.
+        </span>
         
-         Chennai, Tamilnadu.
+      </a>
+      
         
         
-      </button>
+     
       </div>
     </section>
   )

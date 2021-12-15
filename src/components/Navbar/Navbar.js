@@ -21,12 +21,12 @@ const Navbar = () => {
       >
         <li className="nav__list-item">
           <a href="#about" onClick={toggleNavList} className="link link--nav">
-            About
+            <span style={{textTransform: "uppercase",color:"#C5C6C7"}}>A</span>bout
           </a>
         </li>
         <li className="nav__list-item">
           <a href="#skills" onClick={toggleNavList} className="link link--nav">
-            Skills
+            <span style={{textTransform: "uppercase",color:"#C5C6C7"}}>S</span>kills
           </a>
         </li>
         {projects.length ? (
@@ -36,7 +36,7 @@ const Navbar = () => {
               onClick={toggleNavList}
               className="link link--nav"
             >
-              Projects
+             <span style={{textTransform: "uppercase",color:"#C5C6C7"}}>P</span>rojects
             </a>
           </li>
         ) : null}
@@ -46,7 +46,7 @@ const Navbar = () => {
             onClick={toggleNavList}
             className="link link--nav"
           >
-            Experience
+            <span style={{textTransform: "uppercase",color:"#C5C6C7"}}>E</span>xperience
           </a>
         </li>
         {contact.email ? (
@@ -56,7 +56,7 @@ const Navbar = () => {
               onClick={toggleNavList}
               className="link link--nav"
             >
-              Contact
+             <span style={{textTransform: "uppercase",color:"#C5C6C7"}}>C</span>ontact
             </a>
           </li>
         ) : null}
