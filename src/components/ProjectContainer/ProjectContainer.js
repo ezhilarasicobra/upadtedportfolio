@@ -32,7 +32,7 @@ const ProjectContainer = ({ project }) => (
         aria-label="source code"
         className="link link--icon"
       >
-        <Button style={{color:"white" ,border:"3px solid white"}} className="btn btn--outline">Fronend 
+        <Button style={{color:"white" ,border:"3px solid #45A29E"}} className="btn btn--outline">Fronend 
         <GitHubIcon style={{paddingLeft:"3px"}}/>
         </Button>
       </a>
@@ -44,7 +44,7 @@ const ProjectContainer = ({ project }) => (
         aria-label="source code"
         className="link link--icon"
       >
-        <Button style={{color:"white" ,border:"3px solid white"}} className="btn btn--outline">Backend 
+        <Button style={{color:"white" ,border:"3px solid #45A29E"}} className="btn btn--outline">Backend 
         <GitHubIcon style={{paddingLeft:"3px"}} />
         </Button>
         
@@ -58,7 +58,7 @@ const ProjectContainer = ({ project }) => (
         aria-label="live preview"
         className="link link--icon"
       >
-        <Button style={{color:"white" ,border:"3px solid white" ,top:"3px"}} className="btn btn--outline">Live
+        <Button style={{color:"white" ,border:"3px solid #45A29E" ,top:"3px"}} className="btn btn--outline">Live
         <LaunchIcon style={{paddingLeft:"3px"}}/>
         </Button>
       </a>
