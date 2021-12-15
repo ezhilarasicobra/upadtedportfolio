@@ -36,7 +36,7 @@ const about = {
   resume: 'https://drive.google.com/file/d/10uLdGaKhqMdZdynqJFdJ0Ru71dHN4-tY/view?usp=sharing',
   social: {
     linkedin: 'https://linkedin.com',
-    github: 'https://github.com',
+    github: 'https://github.com/ezhilarasicobra',
   },
 }
 
