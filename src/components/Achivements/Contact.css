@@ -1,0 +1,122 @@
+.contact {
+  flex-direction: row;
+}
+.project-section{
+  margin-top: 10px;
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.project-section-items{
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+.boxes{
+  height:150px;
+  width: 200px;
+  border-radius: 10px;
+  background-color: #0d3531;
+  color:darkmagenta;
+  margin:5px 10px 20px;
+  cursor: pointer; 
+  transition: all 1s;  /* lets make it smooth */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  color: white;
+  padding: 10px;
+}
+
+.change-bgcolor:hover{
+  background-color: rgb(151, 136, 139);
+  transition: all 1s;
+}
+
+.change-font-color:hover{
+  transition: all 1s;
+  color:blue;
+}
+
+.move-right:hover{
+  background-color: rgb(211, 159, 169);
+  transition: all .5s;
+  transform : translateX(10px);
+}
+
+.move-left:hover{
+  background-color: crimson;
+  transition: all .5s;
+  transform : translateX(-10px);
+}
+.move-up:hover{
+  background-color: crimson;
+  transition: all .5s;
+  transform : translateY(-10px);
+}
+
+.move-down:hover{
+  background-color: crimson;
+  transition: all .5s;
+  transform : translateY(10px);
+}
+
+.zoom-in:hover{
+  background-color: crimson;
+  transition: all .5s;
+  transform: scale(1.5);
+}
+
+.zoom-out:hover{
+  background-color: crimson;
+  transition: all 1s;
+  transform: scale(.5);
+}
+
+
+
+
+
+
+
+
+
+
+.rotate-360-clockwise:hover{
+  background-color: #45A29E;
+  transition: all 1s;
+  -webkit-transform: rotateZ(360deg);
+      -ms-transform: rotateZ(360deg);
+      transform: rotateZ(360deg);
+}
+
+.rotate-360-anticlockwise:hover{
+  background-color: crimson;
+  transition: all 1s;
+  -webkit-transform: rotateZ(-360deg);
+      -ms-transform: rotateZ(-360deg);
+      transform: rotateZ(-360deg);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
