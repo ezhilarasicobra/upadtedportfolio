@@ -1,5 +1,5 @@
 import React from "react";
-import './Experience.scss'
+import './Experience.css'
 
 
 import events from "./events.json";
