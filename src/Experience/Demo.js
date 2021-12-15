@@ -38,7 +38,7 @@ export default function CustomizedTimeline() {
           <br></br>
           <Typography variant="h7" >
             
-            <li>BOT Support - For 30 BOTS in Production.</li>
+            <li>Enhancement- For 30 BOTS in Production.</li>
             <li>Scrutanizing BOT Perfomance in Production.</li>
             
             </Typography>

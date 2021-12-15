@@ -15,11 +15,21 @@ const Contact = () => {
         
       </a>
       <a href="">
-        <span type='button' className='btn btn--outline' >
+        <span type='button' className='btn btn--outline' style={{marginRight:"9px"}}>
           91 -8148215010
         </span>
         
       </a>
+      <button href="">
+        <span type='button' className='btn btn--outline' >
+        
+        <img src="https://img.icons8.com/color/48/000000/marker--v2.png"style={{height:"15px",paddingRight:"3px"}}/>
+     
+      Chennai, Tamilnadu.
+      
+        </span>
+        
+      </button>
       </div>
     </section>
   )

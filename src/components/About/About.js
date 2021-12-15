@@ -25,7 +25,7 @@ const About = () => {
           aria-label='github'
           className='link link--icon'
         >
-      <img src="https://img.icons8.com/stickers/100/000000/resume.png" height="50px"/>
+      <img src="https://img.icons8.com/stickers/100/000000/resume.png" height="35px"/>
         </a>
         )}
 
@@ -38,7 +38,7 @@ const About = () => {
                 aria-label='github'
                 className='link link--icon'
               >
-                <GitHubIcon />
+                <GitHubIcon/>
               </a>
             )}
 
