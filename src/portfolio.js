@@ -99,7 +99,7 @@ const projects = [
     name: 'Advise - AI ',
     description:
       'This is a simple AI application designed using Alan AI.',
-      stack: ['NodeJs', 'JavaScript', 'React', 'Mongo DB'],
+      stack: ['JavaScript', 'React', 'Alan AI'],
       sourceCodeReact: 'https://github.com/ezhilarasicobra/AdviseAppusing-ALAN',
       pic:pic6,
       sourceCodeNode: '',
